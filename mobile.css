@@ -1,0 +1,113 @@
+@media(max-width:450px){
+
+    
+    header{
+        
+        padding: 10px 20px;
+        
+    }
+    
+    header nav{
+        
+        gap: 20px;
+    }
+    
+    header nav a{
+       font-size: 12px;
+        }
+    
+    
+    
+    
+    #home h1{
+        font-size: 35px;
+        
+    }
+    
+   
+    
+    
+    
+    
+    
+    #about-us h2{
+        font-size: 35px;
+       
+    }
+    
+    #about-us div{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 50px 30px;
+        gap: 40px;
+    }
+    
+    #about-us img{
+        width: 300px;
+        object-fit: contain;
+    }
+    
+    #about-us article{
+        width: 80%;
+        
+    }
+    
+   
+    
+    
+    
+    #astronauts h2{
+        font-size: 30px;
+       
+    }
+    
+    #astronauts div{
+        
+        padding: 50px 30px;
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    
+   
+    
+    #contact-us h2{
+        font-size: 30px;
+       
+    }
+    
+    div{
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+    }
+    
+    div form{
+        width: 100%;
+        
+        padding: 20px;
+        
+    }
+    
+    
+    
+    #contact-us p{
+        width: 100%;
+        
+        padding: 40px 20px;
+    }
+    
+    
+    
+    
+    
+    
+    
+
+}
